@@ -11,7 +11,6 @@ In the folder you should see, in addition to this file:
 1. entertainment_center.py
 2. media.py
 3. fresh_tomatoes.py
-4. fresh_tomatoes.html
 
 ## Browser configuration
 
@@ -19,7 +18,13 @@ In order for the website to work properly on your machine you will need to allow
 
 ## How to view the site
 
-Download the zip file of the branch master to your computer and open **fresh_tomatoes.html** with your web browser.
+Download the zip file of the branch master to your computer.  Once the file is downloaded you can access the website one of two ways
+
+1. If you have Python installed as a valid path 
+..* Open your comand prompt, navigate to the modly-potatoes foler and use the comand `python entertainment_center.py`.
+
+2. If you are running from a shell like IDLE
+..* Open the `entertainment_center.py` file and run or hit `F5` on your key board
  
 
 
