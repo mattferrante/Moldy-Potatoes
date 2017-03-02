@@ -13,8 +13,13 @@ In the folder you should see, in addition to this file:
 3. fresh_tomatoes.py
 4. fresh_tomatoes.html
 
-## How it works
+## Browser configuration
 
+In order for the website to work properly on your machine you will need to allow scripting and ActiveX controls
+
+## How to view the site
+
+Download the zip file of the branch master to your computer and open **fresh_tomatoes.html** with your web browser.
  
 
 
