@@ -9,8 +9,8 @@ In the folder you should see, in addition to this file:
 4. fresh_tomatoes.html 
 
 ## How it works  
-Open fresh_tomatoes.html in a web browser to view the website.                  
- **Your browser must allow the site to run scripts and ActiveX controls**
+Open fresh_tomatoes.html in a web browser to view the website. 
+**Your browser must allow the site to run scripts and ActiveX controls**
 
 
 
