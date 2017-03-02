@@ -10,6 +10,7 @@ In the folder you should see, in addition to this file:
 
 ## How it works  
 Open fresh_tomatoes.html in a web browser to view the website. 
+
 **Your browser must allow the site to run scripts and ActiveX controls**
 
 
